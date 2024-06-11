@@ -1,5 +1,5 @@
 name: fartmap
-description: "A new Flutter project."
+description: "A mobile application to record farts at a specific location."
 publish_to: 'none'
 version: 0.1.0
 
